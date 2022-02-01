@@ -1,4 +1,6 @@
-from test import C_circle
+import test
 
-cir = C_S_circle(5)
+cir = test.C_circle(5)
 print(cir)
+
+
